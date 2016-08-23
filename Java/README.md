@@ -10,3 +10,7 @@ To execute a query, a robot travels to container **a**, picks up **1** candy, tr
 and then stops at **b** until it receives another query.
 
 Calculate the minimum total distance the robots must travel to execute **N** queries in order.
+
+
+
+[Go Back] (https://github.com/pbhagav1/HackerRank)
