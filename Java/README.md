@@ -1,13 +1,14 @@
 # JAVA
 This folder contains the solutions coded using **_JAVA_** language. Below provides the gist of each problem.
 
-## Domain - # of Programs
-**_Algorithms_** -  **_2_**
-
-
+## Summary of Programs
+### Algorithms
+####  - _Easy_   - _2_ 
+####  - _Medium_ - _0_ 
+####  - _Hard_   - _0_ 
 
 ## [TwoRobots] (https://github.com/pbhagav1/HackerRank/tree/master/Java/TwoRobots) 	
-**_Algorithms_** 
+**_Algorithms_**; **_Strings_**; **_Easy_**
 
 You have a warehouse with **M** containers filled with an infinite number of candies. 
 The containers are arranged in a single row, equally spaced to be **1** meter apart. 
@@ -19,7 +20,7 @@ and then stops at **b** until it receives another query.
 Calculate the minimum total distance the robots must travel to execute **N** queries in order.
 
 ## [FunnyString] (https://github.com/pbhagav1/HackerRank/tree/master/Java/FunnyString)
-**_Algorithms_** 
+**_Algorithms_**; **_Strings_**; **_Easy_**
 
 Suppose you have a String **S** of length **N** that is indexed from **0** to **N-1**. You also have some String, **R**,
 that is the reverse of String **S**. **R** is funny if the condition is true for **|S[i] - S[i-1]| = |R[i] - R[i-1]|**
