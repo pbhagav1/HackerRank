@@ -8,11 +8,11 @@ Below is the contact information of the owner of this repository
 
         
 	
-##  Name : Prasanth Bhagavatula
+###  Name : Prasanth Bhagavatula
         
-##  Email: prasanthb1988@gmail.com
+###  Email: prasanthb1988@gmail.com
         
-##  Phone: (+1)-312-536-1195
+###  Phone: (+1)-312-536-1195
 
 
 #### [C] (https://github.com/pbhagav1/HackerRank/tree/master/C)
