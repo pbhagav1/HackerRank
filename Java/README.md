@@ -1,6 +1,9 @@
 # JAVA
 This folder contains the solutions coded using **_JAVA_** language. Below provides the gist of each problem.
 
+## Domain - # of Programs
+**_Algorithms_** -  **_2_**
+
 ## [TwoRobots] (https://github.com/pbhagav1/HackerRank/tree/master/Java/TwoRobots) 	
 **_Algorithms_** 
 
