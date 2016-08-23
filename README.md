@@ -15,6 +15,8 @@ Below is the contact information of the owner of this repository
 ###  Phone: (+1)-312-536-1195
 
 
-#### [C] (https://github.com/pbhagav1/HackerRank/tree/master/C)
+## Sub-Repositories classified based on Programming Languages
 
-#### [JAVA] (https://github.com/pbhagav1/HackerRank/tree/master/JAVA)
+### [C] (https://github.com/pbhagav1/HackerRank/tree/master/C)
+
+### [JAVA] (https://github.com/pbhagav1/HackerRank/tree/master/JAVA)
