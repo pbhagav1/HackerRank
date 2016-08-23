@@ -1,1 +1,1 @@
-[Go Back] (https://github.com/pbhagav1/HackerRank/tree/master/JAVA)
+[Go Back] (https://github.com/pbhagav1/HackerRank/tree/master/Java)
