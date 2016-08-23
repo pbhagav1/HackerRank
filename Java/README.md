@@ -3,7 +3,7 @@ This folder contains the solutions coded using **_JAVA_** language. Below provid
 
 # Summary of Programs
 ## Algorithms
-  - **_Easy_**   - **_2_** 
+  - **_Easy_**   - **_3_** 
   - **_Medium_** - **_0_** 
   - **_Hard_**   - **_0_** 
 
@@ -27,6 +27,15 @@ Calculate the minimum total distance the robots must travel to execute **N** que
 Suppose you have a String **S** of length **N** that is indexed from **0** to **N-1**. You also have some String, **R**,
 that is the reverse of String **S**. **R** is funny if the condition is true for **|S[i] - S[i-1]| = |R[i] - R[i-1]|**
 every character **i** from **1** to **N-1**.
+
+
+## [MarsExploration] (https://github.com/pbhagav1/HackerRank/tree/master/Java/MarsExploration)
+**_Algorithms_**; **_Strings_**; **_Easy_**
+
+Sami's spaceship crashed on Mars! She sends sequential **_SOS_** messages to Earth for help. 
+Letters in some of the **_SOS_** messages are altered by cosmic radiation during transmission. Given the signal
+received by Earth as a string, **_S_**, determine how many letters of Sami's **_SOS_** have been changed by
+radiation.
 
 
 [Go Back] (https://github.com/pbhagav1/HackerRank)
