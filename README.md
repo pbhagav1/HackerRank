@@ -18,16 +18,19 @@ Below is the contact information of the owner of this repository
 ## Sub-Repositories
 
 #### [C] (https://github.com/pbhagav1/HackerRank/tree/master/C)
+##### Algorithms Domain
 > Easy - 1
 > Medium - 0
 > Hard - 0
 
 #### [JAVA] (https://github.com/pbhagav1/HackerRank/tree/master/JAVA)
+##### Algorithms Domain
 > Easy - 3
 > Medium - 0
 > Hard - 0
 
 #### [Python] (https://github.com/pbhagav1/HackerRank/tree/master/Python)
+##### Algorithms Domain
 > Easy - 0
 > Medium - 0
 > Hard - 1
