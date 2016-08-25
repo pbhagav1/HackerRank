@@ -3,7 +3,7 @@ This folder contains the solutions coded using **_JAVA_** language. Below provid
 
 # Summary of Programs
 ## Algorithms
-  > Easy - 3 Medium - 0 Hard - 0
+  > Easy - 3; Medium - 0; Hard - 0
 
 # Problem Statements
 

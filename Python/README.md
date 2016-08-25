@@ -3,7 +3,7 @@ This folder contains the solutions coded using **_PYTHON_** language. Below prov
 
 # Summary of Programs
 ## Algorithms
-  > Easy - 0 Medium - 0 Hard - 1 
+  > Easy - 0; Medium - 0; Hard - 1 
 
 # Problem Statements
 
