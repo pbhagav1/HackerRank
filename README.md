@@ -17,14 +17,14 @@ Below is the contact information of the owner of this repository
 
 ## Sub-Repositories
 
-#### [C] (https://github.com/pbhagav1/HackerRank/tree/master/C) - 1
-  > Easy - 1; Medium - 0; Hard - 0
+#### [C] (https://github.com/pbhagav1/HackerRank/tree/master/C)
+  > Total - 1; Easy - 1; Medium - 0; Hard - 0
 
-#### [JAVA] (https://github.com/pbhagav1/HackerRank/tree/master/Java) - 3
-  > Easy - 3; Medium - 0; Hard - 0
+#### [JAVA] (https://github.com/pbhagav1/HackerRank/tree/master/Java)
+  > Total - 3; Easy - 3; Medium - 0; Hard - 0
 
-#### [Python] (https://github.com/pbhagav1/HackerRank/tree/master/Python) - 2
-  > Easy - 0; Medium - 1; Hard - 1
+#### [Python] (https://github.com/pbhagav1/HackerRank/tree/master/Python)
+  > Total - 2; Easy - 0; Medium - 1; Hard - 1
 
 
 ## [Home Page] (https://github.com/pbhagav1)
