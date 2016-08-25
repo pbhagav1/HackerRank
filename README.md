@@ -35,8 +35,11 @@ Below is the contact information of the owner of this repository
 ##### Algorithms Domain - 1
   > Easy - 0; Medium - 0; Hard - 1
 
-##### All Domains - 1
-  > Easy - 0; Medium - 0; Hard - 1
+##### Strings Domain - 1
+  > Easy - 0; Medium - 1; Hard - 0
+
+##### All Domains - 2
+  > Easy - 0; Medium - 1; Hard - 1
 
 
 ## [Home Page] (https://github.com/pbhagav1)
