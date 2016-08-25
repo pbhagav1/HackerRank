@@ -2,10 +2,10 @@
 This folder contains the solutions coded using **_JAVA_** language. Below provides the gist of each problem.
 
 # Summary of Programs
-## Algorithms - 3
+## All Domains - 3
   > Easy - 3; Medium - 0; Hard - 0
 
-## All Domains - 3
+## Algorithms - 3
   > Easy - 3; Medium - 0; Hard - 0
 
 # Problem Statements
