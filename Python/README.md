@@ -2,11 +2,14 @@
 This folder contains the solutions coded using **_PYTHON_** language. Below provides the gist of each problem.
 
 # Summary of Programs
-## Algorithms
+## Algorithms - 1
   > Easy - 0; Medium - 0; Hard - 1 
 
-## Strings
+## Strings - 1
   > Easy - 0; Medium - 1; Hard - 0 
+
+## All Domains - 2
+  > Easy - 0; Medium - 1; Hard - 1 
 
 # Problem Statements
 
