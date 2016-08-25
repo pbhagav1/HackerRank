@@ -16,5 +16,16 @@ You have two strings, **_A_** and **_B_**. Find a string, **_S_**, such that:
   - **_S_** is a palindromic string.
   - The length of is **_S_** as long as possible.
 
+## [TheMinionGame] (https://github.com/pbhagav1/HackerRank/tree/master/Python/TheMinionGame)
+**_Strings_**; **_Medium_**
+
+Kevin and Stuart want to play the 'The Minion Game'.
+  - Both players are given the same string **_S_**.
+  - Both players have to make substrings using the letters of the string **_S_**.
+  - Stuart has to make words starting with consonants.
+  - Kevin has to make words starting with vowels.
+  - The game ends when both players have made all possible substrings.
+
+
 
 [Go Back] (https://github.com/pbhagav1/HackerRank)
