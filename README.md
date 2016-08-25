@@ -24,7 +24,7 @@ Below is the contact information of the owner of this repository
 ##### All Domains - 1
   > Easy - 1 Medium - 0 Hard - 0
 
-#### [JAVA] (https://github.com/pbhagav1/HackerRank/tree/master/JAVA)
+#### [JAVA] (https://github.com/pbhagav1/HackerRank/tree/master/Java)
 ##### Algorithms Domain - 3
   > Easy - 3 Medium - 0 Hard - 0
 
