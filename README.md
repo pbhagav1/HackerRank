@@ -24,7 +24,7 @@ Below is the contact information of the owner of this repository
   > Total - 3; Easy - 3; Medium - 0; Hard - 0
 
 #### [Python] (https://github.com/pbhagav1/HackerRank/tree/master/Python)
-  > Total - 3; Easy - 1; Medium - 1; Hard - 1
+  > Total - 5; Easy - 3; Medium - 1; Hard - 1
 
 
 ## [Home Page] (https://github.com/pbhagav1)
