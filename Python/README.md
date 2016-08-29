@@ -23,7 +23,7 @@ You have two strings, **_A_** and **_B_**. Find a string, **_S_**, such that:
   - The length of is **_S_** as long as possible.
 
 ## [CamelCase] (https://github.com/pbhagav1/HackerRank/tree/master/Python/CamelCase)
-**_Algorithms_**; **_String_**; **_Hard_**
+**_Algorithms_**; **_String_**; **_Easy_**
 
 Alice wrote a sequence of words in CamelCase as a string of letters, **_s_**, having the following properties:
   -  It is a concatenation of one or more words consisting of English letters.
@@ -33,7 +33,7 @@ Alice wrote a sequence of words in CamelCase as a string of letters, **_s_**, ha
 Given **_s_**, print the number of words in on a new line.
 
 ## [JumpingOnTheClouds] (https://github.com/pbhagav1/HackerRank/tree/master/Python/JumpingOnTheClouds)
-**_Algorithms_**; **_Implementation_**; **_Hard_**
+**_Algorithms_**; **_Implementation_**; **_Easy_**
 
 Emma is playing a new mobile game involving **_n_** clouds numbered from **_0_** to **_n-1_**. A player initially starts
 out on cloud **_c0_**, and they must jump to cloud **_cn-1_**. In each step, she can jump from any cloud **_i_** to cloud
@@ -46,7 +46,7 @@ Can you find the minimum number of jumps Emma must make to win the game? It is g
 clouds **_c0_** and **_cn-1_** are ordinary-clouds and it is always possible to win the game.
 
 ## [MinimumDistances] (https://github.com/pbhagav1/HackerRank/tree/master/Python/MinimumDistances)
-**_Algorithms_**; **_Implementation_**; **_Hard_**
+**_Algorithms_**; **_Implementation_**; **_Easy_**
 
 Consider an array of **_n_** integers, **_A = [a0, a1, ..., an-1]_**. 
 The distance between two indices, **_i_** and **_j_**, is denoted by **_di,j = |i - j|_**.
